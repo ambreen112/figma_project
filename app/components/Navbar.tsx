@@ -9,13 +9,13 @@ export default function Navbar(){
       <nav className={style.nav}>
         
           
-            <a href= "/" > Works</a>
+        <a href="#"> Work</a> 
             
-    
-            <a href="/"> Blogs</a>
+        <a href="#"> Blogs</a>
+            
           
           
-            <a href="/"> Contact</a>
+            <a href="#"> Contact</a>
           
   
         
